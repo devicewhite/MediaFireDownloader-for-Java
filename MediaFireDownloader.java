@@ -1,3 +1,11 @@
+/*
+GNU AFFERO GENERAL PUBLIC LICENSE
+   Version 3, 19 November 2007
+
+   ©Copyright by DeviceBlack
+        June 12, 2024
+*/
+
 package com.deviceblack;
 
 import android.app.DownloadManager;
