@@ -51,10 +51,6 @@ public class MediaFireDownloader implements DownloadListener {
 	 */
 	public interface DownloadListener {
 		
-		private final int ERROR_INVALID_LINK = 1;
-		private final int ERROR_DOWNLOAD_IN_PROGRESS = 2;
-		private final int ERROR_FAILED_TO_DOWNLOAD = 3;
-
 		/**
 		 * Called when the download is started.
 		 *
